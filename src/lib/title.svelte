@@ -50,12 +50,12 @@
 {#if index >= 3}
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
-<h1 on:click={click}>{symbols[index % symbols.length]} ākwa.online/</h1>
+<h1 on:click={click}>{symbols[index % symbols.length]} ākwa.top/</h1>
 {:else}
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
-<h1 on:click={click}>{symbols[0]} ākwa.online/</h1>
+<h1 on:click={click}>{symbols[0]} ākwa.top/</h1>
 
 {/if}
 
