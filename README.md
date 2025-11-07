@@ -2,4 +2,4 @@
 
 pls don't check the code it sucks
 
-[akwa.online](https://akwa.online)
+[akwa.top](https://akwa.top)
